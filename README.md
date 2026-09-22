@@ -5,6 +5,13 @@ Olá! Sou antropólogo e estou construindo minha carreira na área de dados. Com
 Aqui estão reunidos os meus projetos práticos e desafios técnicos que demonstram como aplico análises para transformar dados brutos em insights e modelos preditivos.
 
 ---
+## 📬 Vamos nos conectar?
+Se você deseja trocar uma ideia sobre projetos de dados, entender mais sobre como conecto a Antropologia à tecnologia, ou discutir oportunidades profissionais, fique à vontade para entrar em contato:
+
+* 💼 **LinkedIn:** [Acesse o meu perfil aqui](https://www.linkedin.com/in/becaguimas/)
+* 📧 **E-mail:** barbosasguimaraes@gmail.com
+
+---
 
 ## 🧭 Menu de Navegação Rápida
 
@@ -19,7 +26,7 @@ Aqui estão reunidos os meus projetos práticos e desafios técnicos que demonst
 Construção de um pipeline completo de ETL para manipulação, transformação e estruturação de grandes volumes de dados públicos de aviação da ANAC.
 * **Tecnologias:** Python, PySpark, Spark SQL, Databricks e Delta Lake.
 * **O que foi feito:** Implementação prática do conceito de **Arquitetura Medalhão**, segmentando os dados brutos de voos desde a camada de ingestão inicial (Bronze), passando pela limpeza e refinamento (Silver), até a consolidação analítica e IA (Gold).
-* 👉 [**Acessar o Repositório do Projeto**](https://github.com)
+* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-1-engenharia-de-dados-projeto-anac---imers%C3%A3o-alura)
 
 ---
 
@@ -27,15 +34,15 @@ Construção de um pipeline completo de ETL para manipulação, transformação 
 Exploração profunda e extração de inteligência de negócio a partir de uma base de dados relacional simulando o faturamento e consumo de uma loja digital de música.
 * **Tecnologias:** ANSI SQL e DBeaver.
 * **O que foi feito:** Validação estrutural do banco (Sanity Check), auditoria de transações financeiras de alto valor, mapeamento de clientes fiéis e relatórios consolidados de faturamento por país cruzando múltiplas tabelas (JOINs).
-* 👉 [**Acessar o Repositório do Projeto**](https://github.com)
+* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-2-an%C3%A1lise-de-dados-e-commerce-musical---banco-chinook)
 
 ---
 
-## 🐶 3. Análise Exploratória: Shelter Dogs - Programa EDUMI
+## 🐶 3. Análise Exploratória: Shelter Dogs - EDUMI
 Análise demográfica e de tempo de retenção baseada em dados públicos de cães abandonados em abrigos, desenvolvida graças à **EDUMI** dentro do programa **EDUMI FOR YOUTH 2025**.
 * **Tecnologias:** Microsoft Excel e Google Sheets.
 * **O que foi feito:** Data Wrangling de dados ausentes, engenharia de recursos criando variáveis temporais (`waiting time`) e categorização de dados contínuos de idade. O projeto identificou padrões críticos de permanência prolongada (mais de 1000 dias) para cães idosos e de porte médio.
-* 👉 [**Acessar o Repositório do Projeto**](https://github.com)
+* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-3-an%C3%A1lise-explorat%C3%B3ria-shelter-dogs---programa-edumi)
 
   ---
 
@@ -43,7 +50,7 @@ Análise demográfica e de tempo de retenção baseada em dados públicos de cã
 Exercício de Machine Learning focado em entender padrões de preços de imóveis para estimar o valor de venda de novas propriedades no contexto regional de Campina Grande - Paraíba.
 * **Tecnologias:** Python, Pandas, NumPy, Scikit-Learn e Google Colab.
 * **O que foi feito:** Evolução controlada de uma Regressão Linear Simples para uma Regressão Linear Múltipla. O modelo foi otimizado aplicando variáveis de bairros locais (como Bodocongó, Malvinas e Jardim Tavares), aumentando o realismo da IA.
-* 👉 [**Acessar o Repositório do Projeto**](https://github.com)
+* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-4-ci%C3%AAncia-de-dados-previs%C3%A3o-de-pre%C3%A7os-de-casas)
 
 ---
 
@@ -55,10 +62,3 @@ Exercício de Machine Learning focado em entender padrões de preços de imóvei
 * **Ferramentas de BI & Office:** DBeaver, Excel, Google Sheets, Git/GitHub
   
 ---
-
-
-## 📬 Vamos nos conectar?
-Se você deseja trocar uma ideia sobre projetos de dados, entender mais sobre como conecto a Antropologia à tecnologia, ou discutir oportunidades profissionais, fique à vontade para entrar em contato:
-
-* 💼 **LinkedIn:** [Acesse o meu perfil aqui](https://www.linkedin.com/in/becaguimas/)
-* 📧 **E-mail:** barbosasguimaraes@gmail.com
