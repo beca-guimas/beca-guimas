@@ -8,25 +8,45 @@ Aqui estão reunidos os meus projetos práticos e desafios técnicos que demonst
 ## Vamos nos conectar?
 Se você deseja trocar uma ideia sobre projetos de dados, entender mais sobre como conecto a Antropologia à tecnologia, ou discutir oportunidades profissionais, fique à vontade para entrar em contato:
 
-* 💼 **LinkedIn:** [Acesse o meu perfil aqui](https://www.linkedin.com/in/becaguimas/)
-* 📧 **E-mail:** barbosasguimaraes@gmail.com
+* **LinkedIn:** [Acesse o meu perfil aqui](https://www.linkedin.com/in/becaguimas/)
+* **E-mail:** barbosasguimaraes@gmail.com
 
 ---
 
-## 🧭 Menu de Navegação Rápida
+# 🧭 Menu de Navegação Rápida
 
-* [Projeto 1: Ingestão e Pipeline de Dados ANAC (Engenharia de Dados)](#-1-engenharia-de-dados-projeto-anac---imersão-alura)
-* [Projeto 2: E-commerce Musical Chinook (Análise de Dados com SQL)](#-2-análise-de-dados-e-commerce-musical---banco-chinook)
-* [🐶 Projeto 3: Perfil e Tempo de Espera de Cães Abandonados (Análise Exploratória com Excel)](#-3-análise-exploratória-shelter-dogs---programa-edumi)
-* [Projeto 4: Previsão de Preços de Casas em Campina Grande - PB (Ciência de Dados / ML)](#-4-ciência-de-dados-previsão-de-preços-de-casas)
+* [Projeto 1: Garimpo Indie: Investigação e Análise dos Fluxos de Distribuição na Indústria Fonográfica Digital (Análise de Dados e Desenvolvimento back-end)](#-1-https://github.com/beca-guimas/spotify-python-project)
+* [🐶 Projeto 2: Perfil e Tempo de Espera de Cães Abandonados (Análise Exploratória com Excel)](#-2-análise-exploratória-shelter-dogs---programa-edumi)
+* [Projeto 3: Ingestão e Pipeline de Dados ANAC (Engenharia de Dados)](#-3-engenharia-de-dados-projeto-anac---imersão-alura)
+* [Projeto 4: E-commerce Musical Chinook (Análise de Dados com SQL)](#-4-análise-de-dados-e-commerce-musical---banco-chinook)
+* [Projeto 5: Previsão de Preços de Casas em Campina Grande - PB (Ciência de Dados / ML)](#-5-ciência-de-dados-previsão-de-preços-de-casas)
+  
   
 ---
 
-##  1. Engenharia de Dados: Projeto ANAC - Imersão Alura
+# 1. Garimpo Indie: Investigação e Análise dos Fluxos de Distribuição na Indústria Fonográfica Digital (Análise de Dados e Desenvolvimento back-end) 
+
+Investigação dos padrões de consumo e distribuição musical nas capitais brasileiras, analisando criticamente o impacto do algoritmo do Spotify em mercados regionais.
+**Tecnologias:** Python, Pandas, Jupyter Notebook, SQLAlchemy, SQL, FastAPI e Uvicorn.
+**O que foi feito:** Processamento de um histórico massivo de mais de 201.000 linhas de rankings semanais (2021 a 2024) extraídos do Kaggle. Execução de pipeline de ETL automatizado para varredura e unificação de relatórios fragmentados, tratamento de anomalias de encoding (correção da string "Belém"), modelagem relacional SQL normalizada via ORM e criação de endpoints escaláveis para consulta dinâmica dos dados.
+O projeto validou a forte autossuficiência e independência do mercado fonográfico no Nordeste (Recife) frente ao eixo tradicional RJ-SP.
+
+* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas/spotify-python-project)
+
+---
+#  2. Engenharia de Dados: Projeto ANAC - Imersão Alura
 Construção de um pipeline completo de ETL para manipulação, transformação e estruturação de grandes volumes de dados públicos de aviação da ANAC.
 * **Tecnologias:** Python, PySpark, Spark SQL, Databricks e Delta Lake.
 * **O que foi feito:** Implementação prática do conceito de **Arquitetura Medalhão**, segmentando os dados brutos de voos desde a camada de ingestão inicial (Bronze), passando pela limpeza e refinamento (Silver), até a consolidação analítica e IA (Gold).
 * 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-1-engenharia-de-dados-projeto-anac---imers%C3%A3o-alura)
+
+---
+
+# 🐶 3. Análise Exploratória: Shelter Dogs - EDUMI
+Análise demográfica e de tempo de retenção baseada em dados públicos de cães abandonados em abrigos, desenvolvida graças à **EDUMI** dentro do programa **EDUMI FOR YOUTH 2025**.
+* **Tecnologias:** Microsoft Excel e Google Sheets.
+* **O que foi feito:** Data Wrangling de dados ausentes, engenharia de recursos criando variáveis temporais (`waiting time`) e categorização de dados contínuos de idade. O projeto identificou padrões críticos de permanência prolongada (mais de 1000 dias) para cães idosos e de porte médio.
+* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-3-an%C3%A1lise-explorat%C3%B3ria-shelter-dogs---programa-edumi)
 
 ---
 
@@ -38,15 +58,8 @@ Exploração profunda e extração de inteligência de negócio a partir de uma 
 
 ---
 
-## 🐶 3. Análise Exploratória: Shelter Dogs - EDUMI
-Análise demográfica e de tempo de retenção baseada em dados públicos de cães abandonados em abrigos, desenvolvida graças à **EDUMI** dentro do programa **EDUMI FOR YOUTH 2025**.
-* **Tecnologias:** Microsoft Excel e Google Sheets.
-* **O que foi feito:** Data Wrangling de dados ausentes, engenharia de recursos criando variáveis temporais (`waiting time`) e categorização de dados contínuos de idade. O projeto identificou padrões críticos de permanência prolongada (mais de 1000 dias) para cães idosos e de porte médio.
-* 👉 [**Acessar o Repositório do Projeto**](https://github.com/beca-guimas#-3-an%C3%A1lise-explorat%C3%B3ria-shelter-dogs---programa-edumi)
 
-  ---
-
-## 4. Ciência de Dados: Previsão de Preços de Casas
+# 5. Ciência de Dados: Previsão de Preços de Casas
 Exercício de Machine Learning focado em entender padrões de preços de imóveis para estimar o valor de venda de novas propriedades no contexto regional de Campina Grande - Paraíba.
 * **Tecnologias:** Python, Pandas, NumPy, Scikit-Learn e Google Colab.
 * **O que foi feito:** Evolução controlada de uma Regressão Linear Simples para uma Regressão Linear Múltipla. O modelo foi otimizado aplicando variáveis de bairros locais (como Bodocongó, Malvinas e Jardim Tavares), aumentando o realismo da IA.
@@ -55,10 +68,13 @@ Exercício de Machine Learning focado em entender padrões de preços de imóvei
 ---
 
 
-## 🛠️ Resumo de Hard Skills
-* **Linguagens:** Python, SQL (Spark SQL, SQLite, ANSI SQL)
-* **Big Data & Cloud:** Databricks, PySpark, Delta Lake (Arquitetura Medalhão)
-* **Análise & Machine Learning:** Scikit-Learn (LinearRegression), Pandas, NumPy
-* **Ferramentas de BI & Office:** DBeaver, Excel, Google Sheets, Git/GitHub
-  
+# Resumo de Hard Skills
+
+*Linguagens:* Python, SQL (Spark SQL, SQLite, ANSI SQL)
+*Engenharia de Dados & Back-end:* FastAPI, Uvicorn, SQLAlchemy (ORM), REST APIs, Modelagem Relacional (SQL)
+*Big Data & Cloud:* Databricks, PySpark, Delta Lake (Arquitetura Medalhão)
+*Análise & Machine Learning:* Pandas, NumPy, Scikit-Learn (LinearRegression)
+*Ferramentas & Versionamento:* DBeaver, Git, GitHub, Excel, Google Sheets
+
+
 ---
