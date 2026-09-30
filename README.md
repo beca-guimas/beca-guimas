@@ -1,4 +1,4 @@
-Oi, eu sou Beca Guimas!!!
+Oi, eu sou Beca Guimas!!! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 Sou antropólogo e analista de dados, venho estudando também desenvolvimento back-end e tenho interesse por engenharia de dados. 
 Estou trabalhando principalmente com Python e SQL.
