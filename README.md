@@ -1,33 +1,20 @@
-class Beca:
-    nome = "Beca Guimas"
-    foco = "análise de dados e back-end dev"
-    interesse = "eng de dados"
+Oi, eu sou Beca Guimas!!!
 
-    stack = {
-        "linguagens": ["Python", "SQL"],
-        "dados": ["Pandas", "NumPy", "scikit-learn"],
-        "backend": ["FastAPI", "SQLAlchemy"],
-        "ferramentas": ["Jupyter", "PyCharm", "DBeaver", "Google Colab"],
-    }
+Sou antropólogo e analista de dados, venho estudando também desenvolvimento back-end e tenho interesse por engenharia de dados. 
+Estou trabalhando principalmente com Python e SQL.
 
-    def o_que_me_move(self):
-        return "descobrir o que os dados dizem, mesmo quando não é o que eu esperava"
+Por vir das ciências humanas, gosto de olhar para os dados como quem tenta entender pessoas e contextos. O que mais me interessa é descobrir o que os dados dizem de verdade, principalmente quando não é o que eu esperava.
 
-    def agora(self):
-        return [
-            "construindo uma API sobre rankings do Spotify Brasil",
-            # começou como a busca por uma banda de rock indie e virou outra pergunta
-            "estudando engenharia de dados",
-        ]
-```
+Meu projeto mais recente começou como a busca por uma banda de rock indie nos rankings do Spotify Brasil e virou outra pergunta: até que ponto o eixo Rio-São Paulo define o que faz sucesso nas outras capitais? Construí uma API com FastAPI e um banco relacional com SQLAlchemy para investigar isso.
 
-## Projetos
+Uso Python (Pandas, NumPy, scikit-learn, FastAPI, SQLAlchemy) e SQL, no Jupyter, PyCharm e DBeaver.
 
-- [garimpo-indie](https://github.com/beca-guimas/spotify-python-project): API com FastAPI e banco relacional sobre 201 mil rankings semanais do Spotify Brasil, para investigar se mercados regionais dependem do eixo Rio-São Paulo.
-- [chinook-sql](https://github.com/beca-guimas/chinook-sql): consultas SQL no banco Chinook 
-- [shelter-dogs-analise](https://github.com/beca-guimas/shelter-dogs-analise): análise de dados sobre cães em abrigos.
-- [imersao-engdedados-alura](https://github.com/beca-guimas/imersao-engdedados-alura): exercícios da Imersão de Engenharia de Dados da Alura.
+Alguns projetos:
 
-## Contato
+- [garimpo-indie](https://github.com/beca-guimas/spotify-python-project): API e banco relacional sobre 201 mil rankings semanais do Spotify Brasil
+- [chinook-sql](https://github.com/beca-guimas/chinook-sql): consultas SQL no banco Chinook
+- [shelter-dogs-analise](https://github.com/beca-guimas/shelter-dogs-analise): análise de dados sobre cães em abrigos
+- [imersao-engdedados-alura](https://github.com/beca-guimas/imersao-engdedados-alura): exercícios da Imersão de Engenharia de Dados da Alura
 
-- LinkedIn: [COLOQUE_SEU_LINK](https://www.linkedin.com/in/becaguimas)
+Me encontra no [LinkedIn](https://www.linkedin.com/in/becaguimas). 
+Email: barbosasguimaraes@gmail.com
