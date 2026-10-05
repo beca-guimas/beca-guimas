@@ -5,7 +5,7 @@ Estou trabalhando principalmente com Python e SQL.
 
 Por vir das ciências humanas, gosto de olhar para os dados como quem tenta entender pessoas e contextos. O que mais me interessa é descobrir o que os dados dizem de verdade, principalmente quando não é o que eu esperava.
 
-Meu projeto mais recente começou como a busca por uma banda de rock indie nos rankings do Spotify Brasil e virou outra pergunta: até que ponto o eixo Rio-São Paulo define o que faz sucesso nas outras capitais? Construí uma API com FastAPI e um banco relacional com SQLAlchemy para investigar isso.
+Meu projeto mais recente começou com a busca por bandas de rock indie nos rankings do Spotify Brasil e virou outra pergunta: até que ponto o eixo Rio-São Paulo define o que faz sucesso nas outras capitais? Construí uma API com FastAPI e um banco relacional com SQLAlchemy para investigar isso.
 
 Uso Python (Pandas, NumPy, scikit-learn, FastAPI, SQLAlchemy) e SQL, no Jupyter, PyCharm e DBeaver.
 
