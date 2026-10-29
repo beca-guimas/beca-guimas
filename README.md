@@ -1,6 +1,6 @@
 Oi, eu sou Beca Guimas!!! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-Sou antropólogo e analista de dados, venho estudando também desenvolvimento back-end e tenho interesse por engenharia de dados. 
+Sou antropólogo e analista de dados, venho estudando também banco de dados e desenvolvimento back-end e tenho interesse por engenharia de dados. 
 Estou trabalhando principalmente com Python e SQL.
 
 Por vir das ciências humanas, gosto de olhar para os dados como quem tenta entender pessoas e contextos. O que mais me interessa é descobrir o que os dados dizem de verdade, principalmente quando não é o que eu esperava.
