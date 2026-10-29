@@ -17,6 +17,8 @@ Alguns projetos:
 - [imersao-engdedados-alura](https://github.com/beca-guimas/imersao-engdedados-alura): exercícios da Imersão de Engenharia de Dados da Alura
 - [calculadora-alura-imersao](https://github.com/beca-guimas/calculadora-alura-imersao): 2 desafios da Imersão Em Engeharia de Software na era da IA da Alura
 
-Me encontre no [LinkedIn](https://www.linkedin.com/in/becaguimas). :)
+Me encontre no [LinkedIn](https://www.linkedin.com/in/becaguimas). 
 
 Email: barbosasguimaraes@gmail.com
+
+:)
