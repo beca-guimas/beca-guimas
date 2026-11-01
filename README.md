@@ -5,9 +5,6 @@ Estou trabalhando principalmente com Python e SQL.
 
 Por vir das ciências humanas, gosto de olhar para os dados como quem tenta entender pessoas e contextos. O que mais me interessa é descobrir o que os dados dizem de verdade, principalmente quando não é o que eu esperava.
 
-Meu projeto mais recente começou com a busca por bandas de rock indie nos rankings do Spotify Brasil e virou outra pergunta: até que ponto o eixo Rio-São Paulo define o que faz sucesso nas outras capitais? Construí uma API com FastAPI e um banco relacional com SQLAlchemy para investigar isso.
-
-Uso Python (Pandas, NumPy, scikit-learn, FastAPI, SQLAlchemy) e SQL, no Jupyter, PyCharm e DBeaver.
 
 Alguns projetos:
 
@@ -15,10 +12,15 @@ Alguns projetos:
 - [chinook-sql](https://github.com/beca-guimas/chinook-sql): consultas SQL no banco Chinook
 - [shelter-dogs-analise](https://github.com/beca-guimas/shelter-dogs-analise): análise de dados sobre cães em abrigos
 - [imersao-engdedados-alura](https://github.com/beca-guimas/imersao-engdedados-alura): exercícios da Imersão de Engenharia de Dados da Alura
-- [calculadora-alura-imersao](https://github.com/beca-guimas/calculadora-alura-imersao): 2 desafios da Imersão Em Engeharia de Software na era da IA da Alura
+- [calculadora-alura-imersao](https://github.com/beca-guimas/calculadora-alura-imersao): Desafios da Imersão Em Engenharia de Software na era da IA da Alura
+- [tarefas-do-dia-alura](https://github.com/beca-guimas/tarefas-do-dia-alura): Desafio da Imersão Em Engenharia de Software na era da IA da Alura, utilizando Google Antigravity para construir uma aplicação
+
+
 
 Me encontre no [LinkedIn](https://www.linkedin.com/in/becaguimas). 
 
+ou
+
 Email: barbosasguimaraes@gmail.com
 
-:)
+:))
