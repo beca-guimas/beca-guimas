@@ -5,7 +5,7 @@ Sou Antropólogo e mestre em Ciências Sociais, hoje cursando Análise e Desenvo
 Aqui você encontrará alguns projetos práticos com Python, SQL, ETL e análise de dados. Trago com o meu background a facilidade para investigar problemas e enxergar padrões no meio do volume de informação, o que ajuda a não só processar os dados, mas entender o que significam na prática. O que mais me interessa é descobrir o que os dados dizem de verdade, principalmente quando não é o que eu esperava.
 
 
-**Alguns projetos:**
+**Abaixo estão alguns projetos:**
 
 **Engenharia de Dados & Back-end:**
 
