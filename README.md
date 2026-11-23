@@ -7,15 +7,19 @@ Aqui você encontrará alguns projetos práticos com Python, SQL, ETL e análise
 
 **Alguns projetos:**
 
-**Engenharia de Dados & Back-end**
+**Engenharia de Dados & Back-end:**
+
 - [garimpo-indie](https://github.com/beca-guimas/spotify-python-project): Pipeline de ETL com Pandas, SQLAlchemy e API FastAPI em 201 mil registros do Spotify Brasil para analisar tendências e o eixo Rio-São Paulo.
 - [imersao-engdedados-alura](https://github.com/beca-guimas/imersao-engdedados-alura): Pipeline end-to-end no Databricks com PySpark, Spark SQL e Delta Lake (Arquitetura Medalhão) para dados de aviação da ANAC. Este projeto fez parte da Imersão em Engenharia de Dados da Alura.
 
-**Análise de Dados**
-- [chinook-sql](https://github.com/beca-guimas/chinook-sql): Análise exploratória e inteligência de negócio em banco relacional via SQL no DBeaver, usando métricas de faturamento e JOINs. 
-- [shelter-dogs-analise](https://github.com/beca-guimas/shelter-dogs-analise): Tratamento de dados, criação de variáveis e análise exploratória no Google Sheets sobre o perfil de cães abandonados que vivem em abrigos.
+**Análise de Dados:**
 
-**Desenvolvimento & Software**
+- [case-analise-vendas-powerbi](https://github.com/beca-guimas/case-analise-vendas-powerbi): Limpeza e validação de 1.358 registros no Google Sheets, modelagem no Power Query e dashboard no Power BI (com DAX) sobre vendas, faturamento e margem no setor de bicicletas.
+- [shelter-dogs-analise](https://github.com/beca-guimas/shelter-dogs-analise): Tratamento de dados, criação de variáveis e análise exploratória no Google Sheets sobre o perfil de cães abandonados que vivem em abrigos.
+- [chinook-sql](https://github.com/beca-guimas/chinook-sql): Análise exploratória e inteligência de negócio em banco relacional via SQL no DBeaver, usando métricas de faturamento e JOINs. 
+
+**Desenvolvimento & Software:**
+
 - [calculadora-alura-imersao](https://github.com/beca-guimas/calculadora-alura-imersao): scripts modulares em Python desenvolvidos na Imersão em Engenharia de Software com IA da Alura.
 - [tarefas-do-dia-alura](https://github.com/beca-guimas/tarefas-do-dia-alura): aplicação web de lista de tarefas (To-Do List) com HTML, CSS, JavaScript e LocalStorage. Também faz parte dos projetos práticos da Imersão em Engenharia de Software com IA da Alura.
 
@@ -23,6 +27,7 @@ Aqui você encontrará alguns projetos práticos com Python, SQL, ETL e análise
 
 
 
-Me encontre no [LinkedIn](https://www.linkedin.com/in/becaguimas). ou pelo e-mail: barbosasguimaraes@gmail.com | guimasbeca@gmail.com 
+Me encontre no [LinkedIn](https://www.linkedin.com/in/becaguimas). 
+Ou pelo e-mail: barbosasguimaraes@gmail.com | guimasbeca@gmail.com 
 
 :))
